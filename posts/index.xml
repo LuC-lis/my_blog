@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on LuC&#39;s Essays</title>
+    <link>https://LuC-lis.github.io/posts/</link>
+    <description>Recent content in Posts on LuC&#39;s Essays</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Aug 2026 13:50:51 +0800</lastBuildDate>
+    <atom:link href="https://LuC-lis.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://LuC-lis.github.io/posts/my-first-post/</link>
+      <pubDate>Sat, 01 Aug 2026 13:50:51 +0800</pubDate>
+      <guid>https://LuC-lis.github.io/posts/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;hello-hugo&#34;&gt;Hello Hugo&lt;/h1&gt;
+&lt;p&gt;This is my first essay.&lt;/p&gt;
+&lt;p&gt;I write about technology and society.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
