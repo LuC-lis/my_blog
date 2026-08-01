@@ -1,0 +1,5 @@
+baseURL = "https://LuC-lis.github.io/"
+languageCode = "en-us"
+title = "LuC's Essays"
+
+theme = "PaperMod"
