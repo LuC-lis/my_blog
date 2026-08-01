@@ -6,8 +6,20 @@
     <description>Recent content in Posts on LuC&#39;s Essays</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Aug 2026 13:50:51 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 14:20:57 +0800</lastBuildDate>
     <atom:link href="https://LuC-lis.github.io/my_blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Essay</title>
+      <link>https://LuC-lis.github.io/my_blog/posts/my-first-essay/</link>
+      <pubDate>Sat, 01 Aug 2026 14:20:57 +0800</pubDate>
+      <guid>https://LuC-lis.github.io/my_blog/posts/my-first-essay/</guid>
+      <description>&lt;h1 id=&#34;why-i-write&#34;&gt;Why I Write&lt;/h1&gt;
+&lt;p&gt;Writing is a way to organize my thoughts.&lt;/p&gt;
+&lt;h2 id=&#34;technology&#34;&gt;Technology&lt;/h2&gt;
+&lt;p&gt;Technology changes human capability.&lt;/p&gt;
+&lt;h2 id=&#34;society&#34;&gt;Society&lt;/h2&gt;
+&lt;p&gt;The future depends on how humans use technology.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My First Post</title>
       <link>https://LuC-lis.github.io/my_blog/posts/my-first-post/</link>
