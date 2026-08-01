@@ -1,7 +1,7 @@
 +++
 date = '2026-08-01T14:20:57+08:00'
 draft = false
-title = 'Utopia to Come'
+title = 'What My Goal is, and Who I am'
 +++
 
 我的人生只有一个目标：成就伟大。
