@@ -1,5 +1,5 @@
 +++
-date = '2026-08-01T14:20:57+08:00'
+date = '2026-07-31T14:20:57+08:00'
 draft = false
 title = 'What My Goal is, and Who I am'
 +++
