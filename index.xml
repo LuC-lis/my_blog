@@ -9,25 +9,33 @@
     <lastBuildDate>Sat, 01 Aug 2026 14:20:57 +0800</lastBuildDate>
     <atom:link href="https://LuC-lis.github.io/my_blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Essay</title>
-      <link>https://LuC-lis.github.io/my_blog/posts/my-first-essay/</link>
+      <title>Utopia to Come</title>
+      <link>https://LuC-lis.github.io/my_blog/posts/utopia-to-come/</link>
       <pubDate>Sat, 01 Aug 2026 14:20:57 +0800</pubDate>
-      <guid>https://LuC-lis.github.io/my_blog/posts/my-first-essay/</guid>
-      <description>&lt;h1 id=&#34;why-i-write&#34;&gt;Why I Write&lt;/h1&gt;
-&lt;p&gt;Writing is a way to organize my thoughts.&lt;/p&gt;
-&lt;h2 id=&#34;technology&#34;&gt;Technology&lt;/h2&gt;
-&lt;p&gt;Technology changes human capability.&lt;/p&gt;
-&lt;h2 id=&#34;society&#34;&gt;Society&lt;/h2&gt;
-&lt;p&gt;The future depends on how humans use technology.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>https://LuC-lis.github.io/my_blog/posts/my-first-post/</link>
-      <pubDate>Sat, 01 Aug 2026 13:50:51 +0800</pubDate>
-      <guid>https://LuC-lis.github.io/my_blog/posts/my-first-post/</guid>
-      <description>&lt;h1 id=&#34;hello-hugo&#34;&gt;Hello Hugo&lt;/h1&gt;
-&lt;p&gt;This is my first essay.&lt;/p&gt;
-&lt;p&gt;I write about technology and society.&lt;/p&gt;</description>
+      <guid>https://LuC-lis.github.io/my_blog/posts/utopia-to-come/</guid>
+      <description>&lt;p&gt;在油管上看到一些视频。人们为了“AI是否会取代coding”争论不休。&lt;/p&gt;
+&lt;p&gt;黄仁勋公开发布言论：“人们不再需要学习编程！”软件工程师们对此不屑一顾。黄仁勋这么说，是因为他就是卖AI的人。软件工程师们说，AI很笨，它们没法很好地完成任务；且如果AI完全接管人类体系，那么一旦AI崩溃，谁能管理AI呢？综上所述，coding并不会被取代。&lt;/p&gt;
+&lt;p&gt;我认为并非如此。&lt;/p&gt;
+&lt;p&gt;我认为，AI会在未来替代人类，成为独立创造生产力的唯一智能个体。即便在高速发展的当下，这依然不会太快。也许五十年，也许一百年。&lt;/p&gt;
+&lt;p&gt;但这终将发生。&lt;/p&gt;
+&lt;p&gt;人类的历史经历过两次重大的生产力变迁：农业革命和工业革命。计算革命与它们都不同。前两种革命带来了大量的资源、更多的可支配时间和更高的自动化水平。但是计算革命带来的，是无上限的抽象能力。&lt;/p&gt;
+&lt;p&gt;它前所未有。&lt;/p&gt;
+&lt;p&gt;自第二次工业革命至今，发电厂的发电能力也许提升了数百万$^1$倍，但计算机所做的可不止是打印更多数字而已。从二进制数码诞生了逻辑符号，逻辑符号创造了编程语言，编程语言搭建了软件，软件提供了大量的数据，数据催生了神经网络，神经网络造就了人工智能。&lt;/p&gt;
+&lt;p&gt;一切是如此统一：&lt;/p&gt;
+&lt;p&gt;计算机的本质，就是抽象的自我递归。&lt;/p&gt;
+&lt;p&gt;人类的思维 &amp;amp; 语言来自抽象，抽象的能力创造科学，而科学让人类成为了地球的绝对领主。计算机则是抽象的化身。如果说科学的抽象对象是现实世界的话，计算机的抽象对象就是抽象本身。计算机的发展证明了一个恐怖的事实：当抽象不断堆叠，人类几乎可以创造自己所能想象的一切（以及无法想象的一切）。&lt;/p&gt;
+&lt;p&gt;在我看来，抽象是世界规律的真理，而作为抽象化身的计算机则是世界的上帝（从心所欲地实现一切！）。只要继续加深抽象层次，一切想象都可以成为现实，而创造出第二个高级智慧，平替人类的所有生产力工作是必然发生的事。&lt;/p&gt;
+&lt;p&gt;在那之后，人类的生产力历史将经历第三个根本的节点：生产力的解放。在过去，人的价值与生产力息息相关：生产力低下时，人的价值由阶层决定；生产力高速发展时，人的价值由生产力决定。&lt;/p&gt;
+&lt;p&gt;生产力解放后，人的价值将由什么决定呢？人们又要去何处寻求价值呢？&lt;/p&gt;
+&lt;p&gt;我想，人类大概会陷入无可自拔的迷茫吧。生产力越高，存在主义的难题就越迫切，这是人类永远无法逃避的未来吧。&lt;/p&gt;
+&lt;p&gt;因此，我决定：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;将所有精力投入到创造“能够全面取缔人类生产力的高级智慧”的工作中。&lt;/li&gt;
+&lt;li&gt;试图活到”奇点“到来的那一天。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;毕竟，这多有趣啊。&lt;/p&gt;
+&lt;p&gt;1: 滑稽的是，当下的全球发电产能与1900年比只提升了5000倍。显然，人们并不是不能做得更好；只是不需要做得更好了，因为无法（像计算机一样通过抽象）产生质变。&lt;/p&gt;
+&lt;p&gt;ps: 人类也许将会再次复兴古老的希腊文明：人们从生产力的困顿中解放，转而由AI完成它们。人类可以专注于求知本身，如过去的希腊哲学家一样为了思考而思考，沉浸在认知活动的美妙中，而人类的价值也将由在此类领域中做出的贡献来衡量；教授（智者：引领人们的精神方向）将成为一个伟大的职业。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
