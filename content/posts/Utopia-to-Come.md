@@ -18,7 +18,7 @@ Two major shifts had taken place, if we view history from the lens of productivi
 
 Which is nothing like before.
 
-Since the Second Industrial Revolution, power plants may have increased their capacity by millions of times<sub>1</sub>, but computers have done more than just printing numbers:
+Since the Second Industrial Revolution, power plants may have increased their capacity by millions of times(1), but computers have done more than just printing numbers:
 
 binary digits -> logical circuit
 logical circuit -> programming languages
@@ -40,7 +40,7 @@ Then the third pivot point of human history may come: the liberation of producti
 
 So what may happen after the pivot? How will we seek values? How will we determine each other's value?
 
-The mental abyss of obsecurity may come. The trend is obvious human history: the higher productivity became, the more likely human beings will question the meaning of their own existence. You won't question who you are when you are hungry and ignorant. You probably will only when you are full and smarter, partly because you no longer need to worry your stamach, and also because you have known more, but maybe you're not suppose to know that much.<sub>2</sub>
+The mental abyss of obsecurity may come. The trend is obvious human history: the higher productivity became, the more likely human beings will question the meaning of their own existence. You won't question who you are when you are hungry and ignorant. You probably will only when you are full and smarter, partly because you no longer need to worry your stamach, and also because you have known more, but maybe you're not suppose to know that much.(2)
 
 I believe this existential delimma to be inevitable. Yet I still can't help, still eagering to know more.
 
