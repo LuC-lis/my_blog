@@ -4,57 +4,43 @@ draft = false
 title = 'Utopia to Come'
 +++
 
-Saw some videos on YouTube. People arguing about whether AI will replace coding.
+在油管上看到一些视频。人们为了“AI是否会取代coding”争论不休。
 
-Jensen Huang once publicly stated: "No need for human to learn programming!" and the software engineers dismissed the claim with comtempt. They think Huang said so since he's the one selling AI. The engineers argue: AI is still not capable enough to ship projects on their own; Also, if AI completely takes over the system, who's gonna manage it should it collapse? Conclusion, coding will not be replaced.
+黄仁勋公开发布言论：“人们不再需要学习编程！”软件工程师们对此不屑一顾。黄仁勋这么说，是因为他就是卖AI的人。软件工程师们说，AI很笨，它们没法很好地完成任务；且如果AI完全接管人类体系，那么一旦AI崩溃，谁能管理AI呢？综上所述，coding并不会被取代。
 
-I don't buy it.
+我认为并非如此。
 
-What I believe is, AI will eventually become the sole intelligent entity responsible for productivity. This may take a while. Fifty to hundred years perhaps.
+我认为，AI会在未来替代人类，成为独立创造生产力的唯一智能个体。即便在高速发展的当下，这依然不会太快。也许五十年，也许一百年。
 
-But the utopia will come.
+但这终将发生。
 
-Two major shifts had taken place, if we view history from the lens of productivity: agricultural revolution & industrial revolution. The computing revolution differs from both. What the first two revolutions brought along are abundant resources, more disposable time and higher levels of automation. But the computing revolution brought something unique:  the infinite self-recursion of abstraction.
+人类的历史经历过两次重大的生产力变迁：农业革命和工业革命。计算革命与它们都不同。前两种革命带来了大量的资源、更多的可支配时间和更高的自动化水平。但是计算革命带来的，是无上限的抽象能力。
 
-Which is nothing like before.
+它前所未有。
 
-Since the Second Industrial Revolution, power plants may have increased their capacity by millions of times(1), but computers have done more than just printing numbers:
+自第二次工业革命至今，发电厂的发电能力也许提升了数百万$^1$倍，但计算机所做的可不止是打印更多数字而已。从二进制数码诞生了逻辑符号，逻辑符号创造了编程语言，编程语言搭建了软件，软件提供了大量的数据，数据催生了神经网络，神经网络造就了人工智能。
 
-binary digits -> logical circuit
-logical circuit -> programming languages
-programming languages -> software
-software -> internet
-internet -> massive amounts of data
-data -> neural networks
-neural networks -> large language models.
+一切是如此统一：
 
-Everything is unified:
+计算机的本质，就是抽象的自我递归。
 
-The essence of computers, is the self-recursion of abstraction.
+人类的思维 & 语言来自抽象，抽象的能力创造科学，而科学让人类成为了地球的绝对领主。计算机则是抽象的化身。如果说科学的抽象对象是现实世界的话，计算机的抽象对象就是抽象本身。计算机的发展证明了一个恐怖的事实：当抽象不断堆叠，人类几乎可以创造自己所能想象的一切（以及无法想象的一切）。
 
-Abstraction is the ability to find shared features among different presentations. This very ability give rise to science, and has therefore made human master of the earth. Computer is the machine directly produced from abstraction (of computation). If what science abstractify is objects in the world, then what computers abstractify is abstraction itself. The development of the computing era have proven a terrifying fact: as abstraction accumulates on itself, human can create almost everything they can possibly imagine (even things they can't imagine).
+在我看来，抽象是世界规律的真理，而作为抽象化身的计算机则是世界的上帝（从心所欲地实现一切！）。只要继续加深抽象层次，一切想象都可以成为现实，而创造出第二个高级智慧，平替人类的所有生产力工作是必然发生的事。
 
-In my view, abstraction is what brought human to greatness, and computer, as the embodiment of abstraction, has the potential to extend this greatness to infinity. As long as the level of abstraction deepens, everything imagined can be created, and the next advanced intelligent entity is simply inevitable to come.
+在那之后，人类的生产力历史将经历第三个根本的节点：生产力的解放。在过去，人的价值与生产力息息相关：生产力低下时，人的价值由阶层决定；生产力高速发展时，人的价值由生产力决定。
 
-Then the third pivot point of human history may come: the liberation of productivity. Human values have always been  related to productivity in the past: determined by social class when productivity improves slowly, but soon became closely bounded with individual productivity when it started soaring.
+生产力解放后，人的价值将由什么决定呢？人们又要去何处寻求价值呢？
 
-So what may happen after the pivot? How will we seek values? How will we determine each other's value?
+我想，人类大概会陷入无可自拔的迷茫吧。生产力越高，存在主义的难题就越迫切，这是人类永远无法逃避的未来吧。
 
-The mental abyss of obsecurity may come. The trend is obvious human history: the higher productivity became, the more likely human beings will question the meaning of their own existence. You won't question who you are when you are hungry and ignorant. You probably will only when you are full and smarter, partly because you no longer need to worry your stamach, and also because you have known more, but maybe you're not suppose to know that much.(2)
+因此，我决定：
 
-I believe this existential delimma to be inevitable. Yet I still can't help, still eagering to know more.
+- 将所有精力投入到创造“能够全面取缔人类生产力的高级智慧”的工作中。
+- 试图活到”奇点“到来的那一天。
 
-Therefore, I have decided:
+毕竟，这多有趣啊。
 
-- Devote my life into the creation of an AI entity which takes full responsibility for productivity. (ARP) 
-- Try to live till then, see what happens.
+1: 滑稽的是，当下的全球发电产能与1900年比只提升了5000倍。显然，人们并不是不能做得更好；只是不需要做得更好了，因为无法（像计算机一样通过抽象）产生质变。
 
-After all, it's so much fun.
-
-***
-
-1: Ironically, current global electrical power generation capacity is only 5,000 times greater than in 1900. Clearly, it's not that people can't do better; it's just that they don't need to, because they can't make a qualitative change by scaling in electricity (unlike computers).
-
-2: this is what makes the study of the rise & fall of religions fascinating.
-
-P.S.: Humanity may one day revive the ancient Greek civilization: people will be liberated from the constraints of productivity, which will then be handled by AI. Humans can focus on the pursuit of knowledge itself, thinking for the sake of thinking, just like the ancient Greek philosophers, immersing themselves in the beauty of cognitive activity. Human value will therefore be measured by contributions in such fields; professors & wisedom givers (those who guide people's out of the abyss of existentialism) will become a noble profession.
+ps: 人类也许将会再次复兴古老的希腊文明：人们从生产力的困顿中解放，转而由AI完成它们。人类可以专注于求知本身，如过去的希腊哲学家一样为了思考而思考，沉浸在认知活动的美妙中，而人类的价值也将由在此类领域中做出的贡献来衡量；教授（智者：引领人们的精神方向）将成为一个伟大的职业。
