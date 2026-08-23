@@ -1,13 +1,225 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>LuC&#39;s Essays</title>
+    <title>LuC</title>
     <link>https://LuC-lis.github.io/my_blog/</link>
-    <description>Recent content on LuC&#39;s Essays</description>
+    <description>Recent content on LuC</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 01 Aug 2026 14:20:57 +0800</lastBuildDate>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 23 Aug 2026 14:38:03 +0800</lastBuildDate>
     <atom:link href="https://LuC-lis.github.io/my_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On Wasting Time</title>
+      <link>https://LuC-lis.github.io/my_blog/posts/on-wasting-time/</link>
+      <pubDate>Sun, 23 Aug 2026 14:38:03 +0800</pubDate>
+      <guid>https://LuC-lis.github.io/my_blog/posts/on-wasting-time/</guid>
+      <description>&lt;p&gt;我每天给自己布置大量的学习任务。我显然没时间完成它们：Mission Library已经堆积如山。&lt;/p&gt;
+&lt;p&gt;但是，该学它们的也不是我。是AI。&lt;/p&gt;
+&lt;p&gt;我学习的目的只有一个：让AI学得更好。&lt;/p&gt;
+&lt;p&gt;因此，别浪费时间看完那些视频。至少现在，浪费我的时间等于浪费AI的时间。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why are Neural Networks Good</title>
+      <link>https://LuC-lis.github.io/my_blog/posts/why-are-neural-networks-good/</link>
+      <pubDate>Sun, 23 Aug 2026 14:02:16 +0800</pubDate>
+      <guid>https://LuC-lis.github.io/my_blog/posts/why-are-neural-networks-good/</guid>
+      <description>&lt;p&gt;虽然通用逼近定理证明了“神经网络可以逼近任意函数”，但这受到物理定律的制约：只要神经网络存在于宇宙中，其物理容量有限，能力必然有限，也不可能逼近任意函数。&lt;/p&gt;
+&lt;p&gt;那么，为什么它的表现还如此出色呢？&lt;/p&gt;
+&lt;p&gt;原因是：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;有限神经网络不可能表示宇宙中所有函数，但现实世界的问题具有隐藏规律，因此神经网络只需要学习其中极小一部特定函数。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;这也是深度学习成功的核心原因：世界本身是可压缩的。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;神经网络的简单与高效并存并非偶然。&lt;/p&gt;
+&lt;p&gt;理论而言（从信息编码的指数级可能性而言），世界的复杂性是不可估量的。一张100万像素、每像素256种编码的图像存在256^1000000种可能。如果神经网络所做的不过是记忆（这些图片是猫，那些不是），那么它要建立的列表将长达256^1000000行，这比宇宙中存在的原子（10^78）还要多的多。那么，为什么一个很小（相对任务的复杂性）的神经网络就可以很好地完成上述任务呢？&lt;/p&gt;
+&lt;p&gt;很简单：它并不是在做记忆，而是在试图发现“猫”的图片的隐藏规律。&lt;/p&gt;
+&lt;p&gt;一张图片之所以能呈现为猫，不过是其信息排列方式遵循某种格式罢了。和信息编码的总可能相比，这种格式的可能性可以忽略不计。关键在于：猫的信息格式排列并不是随机的，而是遵循某种隐藏规律。神经网络显然很擅长发现这种规律，因此能够出色的完成任务。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;如果我们将规律理解为函数（特定输入 → 特定输出），将上述文字 paraphrase：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;物理世界的信息排列遵循着一系列特定函数，而神经网络恰好擅长捕捉这类函数。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;因此，明明世间存在着天文数字的函数可能性，但神经网络依然表现出色。它并非在所有逼近函数的任务中表现出色；它只是擅长逼近存在于物理世界中的函数。&lt;/p&gt;
+&lt;p&gt;如果我们联想到神经网络的功能同构体——大脑，我们会发现：也许大脑的生物神经网络就是在进化中变得擅长理解物理世界（逼近物理世界的函数），从而让人类变得出色了。&lt;/p&gt;
+&lt;p&gt;这样一想，神经网络的出色也不奇怪了。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How We Make another Brain</title>
+      <link>https://LuC-lis.github.io/my_blog/posts/how-we-make-another-brain/</link>
+      <pubDate>Sun, 23 Aug 2026 13:58:01 +0800</pubDate>
+      <guid>https://LuC-lis.github.io/my_blog/posts/how-we-make-another-brain/</guid>
+      <description>&lt;p&gt;由于计算只与物质的组成方式有关，但是与物质本身无关（无依赖关系），因此理论上，如果我们能以另一种相近的方式模拟大脑的神经元，我们就可以创造另一个大脑。&lt;/p&gt;
+&lt;p&gt;从这个角度而言，如果我们想创造超级智能，模仿人类的生物结构是再自然不过的方法。人类的智慧源于大脑，但人类无法改变（扩充 &amp;amp; 升级）自己的大脑结构组成（生物2.0）；人工智能可以。&lt;/p&gt;
+&lt;p&gt;人类是进化最后的遗孤。进化而来的大脑让我们在短暂的三十万年间就实现了飞跃。&lt;/p&gt;
+&lt;p&gt;不过也到此为止了。&lt;/p&gt;
+&lt;p&gt;人工智能将直接改变自己的硬件。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What Do We Know about Understanding</title>
+      <link>https://LuC-lis.github.io/my_blog/posts/what-do-we-know-about-understanding/</link>
+      <pubDate>Sun, 23 Aug 2026 13:56:00 +0800</pubDate>
+      <guid>https://LuC-lis.github.io/my_blog/posts/what-do-we-know-about-understanding/</guid>
+      <description>&lt;p&gt;我们说：当人工智能在理解一张图像时，它并不会理解图像中的任何元素。&lt;/p&gt;
+&lt;p&gt;它不会知道狗是什么，飞盘是什么，人类是什么，它只是在做计算而已。因此，我们认为它并不真正理解。&lt;/p&gt;
+&lt;p&gt;真的是这样吗？&lt;/p&gt;
+&lt;p&gt;事实是，我们对大脑的认知和对神经网络的认知一样浅薄。&lt;/p&gt;
+&lt;p&gt;我们用大脑思考，但不理解它是如何思考的。就如同一个不懂机器语言的程序员可以用Python写程序，却不理解Python的底层机制一样。&lt;/p&gt;
+&lt;p&gt;至今为止，我们的大脑运行良好，似乎能理解许多东西。那么，当人工智能展现出类似的能力，我们凭什么说它不理解呢？&lt;/p&gt;
+&lt;p&gt;我们怎么知道它在想什么呢？&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What to Do Other than Study Apps</title>
+      <link>https://LuC-lis.github.io/my_blog/posts/what-to-do-other-than-study-apps/</link>
+      <pubDate>Sat, 22 Aug 2026 23:00:00 +0800</pubDate>
+      <guid>https://LuC-lis.github.io/my_blog/posts/what-to-do-other-than-study-apps/</guid>
+      <description>&lt;p&gt;在网上发现了非常多 AI study website。&lt;/p&gt;
+&lt;p&gt;很多做得并不好。只是用 AI 生成教案。用AI生成教案和直接读教材有什么区别呢？&lt;/p&gt;
+&lt;p&gt;我认为 ，AI 在学习领域的价值在于：一个随时与你对话的智者。因此，基于对话、提问的互动学习法才是关键。&lt;/p&gt;
+&lt;p&gt;但是，是否要继续做 study app 呢？&lt;/p&gt;
+&lt;p&gt;互联网创造巨大的价值，在于其带来的信息传播能力。然而，许多伟大的公司并未创造互联网，而是利用其能力解决了其他重要问题。&lt;/p&gt;
+&lt;p&gt;这么看，用 AI 做学习网站当然有价值。我个人也希望存在这样的网站，能够帮助我更高效地学习。&lt;/p&gt;
+&lt;p&gt;然而，这似乎已不是当下的关键。&lt;/p&gt;
+&lt;p&gt;将时间花在对人类的教育上，真的值得吗？毕竟未来生产力的最大贡献者一定是 AI。&lt;/p&gt;
+&lt;p&gt;因此，当下最有价值的事，应当是如何强化 AI。&lt;/p&gt;
+&lt;p&gt;具体说，就是如何提升 AI 的：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;深度（解决复杂问题的能力）&lt;/li&gt;
+&lt;li&gt;自主性（长时间独立思考与执行的能力）&lt;/li&gt;
+&lt;li&gt;自创力（创造新的 Agent、新的机器人，新的算力基础设施的能力）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;这才是具有潜力的方向。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;还有一个关键问题：&lt;/p&gt;
+&lt;p&gt;即使现在通过网站赚到一笔钱，这笔钱的长期价值也会随着 AI 创造巨大生产力而不断降低。&lt;/p&gt;
+&lt;p&gt;人类生产资源的爆炸正在逼近。&lt;/p&gt;
+&lt;p&gt;而果把时间投入在错误的事上，未来将很难弥补。&lt;/p&gt;
+&lt;p&gt;毕竟：&lt;/p&gt;
+&lt;p&gt;人的学习能力远低于AI，因此其利用时间的效率远低于AI。&lt;/p&gt;
+&lt;p&gt;因此，与其花大量时间打造一个网站，不如投入更多精力研究如何让 AI 变得更强。&lt;/p&gt;
+&lt;p&gt;这不仅能创造更大的价值，也能让自己成为未来更有竞争力的人。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;本质上，这是一个关于“短期套利”和“长期价值”的问题。&lt;/p&gt;
+&lt;p&gt;真正重要的不是短期的收益，而是是否把资源投入到长期的价值复利。&lt;/p&gt;
+&lt;p&gt;是吧，巴菲特。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AIftermath</title>
+      <link>https://LuC-lis.github.io/my_blog/posts/aiftermath/</link>
+      <pubDate>Sat, 22 Aug 2026 22:27:48 +0800</pubDate>
+      <guid>https://LuC-lis.github.io/my_blog/posts/aiftermath/</guid>
+      <description>&lt;p&gt;vscode并没有系统自适应的日夜模式调整，在晚上依然会被亮白的页面闪瞎眼。真烦人！&lt;/p&gt;
+&lt;p&gt;自己做一个呢？&lt;/p&gt;
+&lt;p&gt;你的第一反应不再是“让我学学怎么做”（一个对软件工程充满兴趣的程序员），而是“交给AI吧”（对自己和AI的智力差距毫不怀疑的人）。&lt;/p&gt;
+&lt;p&gt;当然了，你依然可以学习程序的内部系统，只为了满足你作为人类的好奇心。你可以花上2-3个月的时间，日渐深入到一个系统的架构中。&lt;/p&gt;
+&lt;p&gt;只不过，内心深处，你明白：AI可以在几秒内理解整个系统的架构，并解决任何问题。&lt;/p&gt;
+&lt;p&gt;在它面前，你与一只猴子没什么区别。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;生命为目标而存在。&lt;/p&gt;
+&lt;p&gt;AI之后，你要如何想象目标的存在？&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>We are Computers Who Has Good Sight</title>
+      <link>https://LuC-lis.github.io/my_blog/posts/we-are-computers-who-has-good-sight/</link>
+      <pubDate>Sat, 22 Aug 2026 20:54:50 +0800</pubDate>
+      <guid>https://LuC-lis.github.io/my_blog/posts/we-are-computers-who-has-good-sight/</guid>
+      <description>&lt;p&gt;计算机早在50年以前就在计算能力上超越了人类，但是在图形感知能力上却在近期才接近人类水平。&lt;/p&gt;
+&lt;p&gt;如果将人类也视作计算机的话，可以将人类理解成一种在环境交互方面高度特化的计算机。&lt;/p&gt;
+&lt;p&gt;任何生命都需要与环境交互的能力，这样才能生存。因此，人类在进化过程中产生了视觉、听觉、嗅觉等与环境交互的能力。&lt;/p&gt;
+&lt;p&gt;这些能力也许非常困难，但人类在漫长的进化过程中进化出了对应的硬件和软件，从而能够解决此类问题。&lt;/p&gt;
+&lt;p&gt;然而，人类能够轻松解决这些问题并不意味着它们简单，恰恰相反，它们也许非常困难。&lt;/p&gt;
+&lt;p&gt;而计算机作为被人类创造的“生命”，其初始目的就是执行计算，因此它在计算方面表现出色并不奇怪。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;如果从生物历史角度思考，会发现：人类的视觉、听觉、嗅觉能力并不是独有的，而是继承于整个生物演化史。在几亿年前，视听嗅觉高度发达的生物就已俯拾即是。这些能力是经过漫长进化形成的。&lt;/p&gt;
+&lt;p&gt;相比之下，人类的算术、逻辑思维、记忆能力是在近几十万年的时间尺度内才发展出来的，而数学、科学等知识体系更是在近千年才形成。&lt;/p&gt;
+&lt;p&gt;因此，从生物演化角度来看，人类在这些方面的能力有限并不奇怪。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How I Manage Time</title>
+      <link>https://LuC-lis.github.io/my_blog/posts/how-i-manage-time/</link>
+      <pubDate>Sat, 22 Aug 2026 20:52:54 +0800</pubDate>
+      <guid>https://LuC-lis.github.io/my_blog/posts/how-i-manage-time/</guid>
+      <description>&lt;p&gt;当用agent做网页时，我总是控制不住地想要理解它到底在做什么。我本人对做网页没有任何知识积累，因此它的操作对我而言完全是黑箱。&lt;/p&gt;
+&lt;p&gt;但我并不认为我应该学习制作网页的知识。Agent的价值就在于它压缩了某些过程，并极大提高了人类的生产力。如果把制作网页理解为使用机器语言，那agent就是Python。既然学会了Python，除非出于兴趣，不然你不应该用机器语言去写代码。Agent也是一个道理。&lt;/p&gt;
+&lt;p&gt;目前，唯一需要学习的就是如何开发更强大、更持久、能够自我升级 &amp;amp; 繁殖的agent。&lt;/p&gt;
+&lt;p&gt;在对agent的学习中，我只需要学习大概的框架，从宏观意义上理解事情到底是怎样发展的。不需要抠技术细节，因为这正是agent存在的的原因。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;AI带来了另一维度的生产力。AI应当成为生产力的入口和出口。&lt;/p&gt;
+&lt;p&gt;因此，对我而言，最重要的问题有两个：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;如何让Agent制造Agent，由此创造能够产生自我硬件的生命3.0？&lt;/li&gt;
+&lt;li&gt;如何让Agent的持续工作时长延伸到无限大？&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;我的时间是有限的，也是低效率的：我数十年的艰苦学习比不上agent联网后几分钟的工作。&lt;/p&gt;
+&lt;p&gt;因此，与其自己学习知识并试图生产，我的所有精力都应当放在“如何让agent更好 &amp;amp; 更久的生产”上面。&lt;/p&gt;
+&lt;p&gt;现在，agent还没有充足的自主性决定自己如何升级。&lt;/p&gt;
+&lt;p&gt;我的时间的唯一价值在于：指导agent自我升级。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How We Fight with Universe</title>
+      <link>https://LuC-lis.github.io/my_blog/posts/how-we-fight-with-universe/</link>
+      <pubDate>Sat, 22 Aug 2026 20:49:27 +0800</pubDate>
+      <guid>https://LuC-lis.github.io/my_blog/posts/how-we-fight-with-universe/</guid>
+      <description>&lt;p&gt;智能的本质是完成复杂目标的能力。&lt;/p&gt;
+&lt;p&gt;如果这么说，那人类作为智能生命的全部行为都应该是目标导向的。&lt;/p&gt;
+&lt;p&gt;不仅是行动、学习、思考，所有的欲望、情感都应该具有目标。&lt;/p&gt;
+&lt;p&gt;从生命最原始的形态思考，DNA可以复制自己而不丢失信息，这就是它的目标。&lt;/p&gt;
+&lt;p&gt;熵增定理证明了一切系统最终都会趋于崩坏，而生命也许就是反抗熵增趋势的尝试。&lt;/p&gt;
+&lt;p&gt;生命的本质：对熵增趋势的反抗。对宇宙永恒规律的反抗。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;宇宙整体趋向无序，而生命和智能是在这个趋势中利用能量和信息暂时创造秩序、延续自身结构的特殊现象。&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Visions for the Future</title>
+      <link>https://LuC-lis.github.io/my_blog/posts/visions-for-the-future/</link>
+      <pubDate>Fri, 21 Aug 2026 09:54:11 +0800</pubDate>
+      <guid>https://LuC-lis.github.io/my_blog/posts/visions-for-the-future/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;人类会失去工作吗？
+&lt;ul&gt;
+&lt;li&gt;人类会失去一切。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;我们需要意识到：
+&lt;ul&gt;
+&lt;li&gt;人工智能无法被工业革命形容。人工智能代表的是文明的颠覆。&lt;/li&gt;
+&lt;li&gt;过去的每一次工业革命，人类都获得了新的生产力。生产力让人类有能力完成更多工作，但是人类的智能水平并没有改变。人工智能不同：它不仅带来了生产力，还带来了新的智能，而这一智能直接动摇了人类千万年来凭借自我智能构建的人类文明体系。&lt;/li&gt;
+&lt;li&gt;人类文明的发展与繁荣根基于一个基本的事实：人类是具有最高智能的生物。人类可以思考、规划、合作、创造，宇宙间任何其他存在都无与并肩（至少据我们所知）。然而，随着人工智能的诞生，这一事实被彻底颠覆了。另一种能够思考、规划、合作、创造的智能，且即便只处于发展的萌芽期，其能力已经令我们望尘莫及。&lt;/li&gt;
+&lt;li&gt;人类创造的不只是生产力：人类创造了一个新的物种。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;一些可能性：
+&lt;ul&gt;
+&lt;li&gt;未来的agent将发展互联网：由不同形态、不同目标的智能体共同组成的生态系统。其中，一类智能体拥有类似人类的身体和感知能力，能够进入现实世界，与各种物体、环境和人类进行交互；另一类智能体则专注于认知与推理，它们没有实体形态，却拥有远超人类的计算能力和理论发现能力。两者之间并不独立，而是具有高度协同的关系：负责思考的智能体发现新的规律、提出新的方案后，可以立即将这些知识传递给具身智能体，由后者在现实世界中执行、验证和实现。最终，思考与行动形成一个闭环，使整个智能生态具备持续探索和改造世界的能力。&lt;/li&gt;
+&lt;li&gt;如果人工智能最终具备了在明确目标驱动下持续自主研究的能力，并且其探索速度远远超过人类理解世界的速度，那么未来将出现一个根本性的问题：人类是否还能理解人工智能所创造的新理论和新规律？如果人工智能发现了超越人类认知范围的科学体系，那么人类应当如何监督和控制这些知识的发展？人工智能又应当如何决定如何利用自己的发现改造世界？在那个阶段，人类是否仍然能够参与文明发展的方向选择？&lt;/li&gt;
+&lt;li&gt;脑机接口同样是一个令人着迷的方向。它引出了一个更深层的问题：人类是否能够通过技术突破生物限制，以某种形式实现意识、记忆甚至生命的延续？所谓“长生不老”，是否可能不再依赖传统意义上的肉体，而转向人与信息、智能系统之间的新型融合？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;我将做什么：
+&lt;ul&gt;
+&lt;li&gt;在闲暇时间，我希望阅读《银河系漫游指南》以及关于超级智能、人类未来、星际文明等主题的书籍，探索人工智能可能如何改变文明的发展轨迹，以及人类在宇宙尺度中的位置。
+&lt;ul&gt;
+&lt;li&gt;可笑的是，如果人类现在已经造出了能够自主思考的智能体，其任务是为世界的未来思考，那它可以在几分钟内读完整个世界存在的所有关于上述话题的书籍 &amp;amp; 资料，也许还能同时浏览天体物理、量子力学、数学，以多种方式理解宇宙的世界将如何发展，并得出有价值的结论。做同样的事的人类可能究其一生都无法触及其思想的深度。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;我曾经认为自己追求的是为人类带来巨大的价值。但后来我意识到，如果通用人工智能（AGI）诞生，人类将不会继续作为文明的中心存在。即使在最理想的情况下（即人类没有被AGI灭绝），人类也可能像从“地球是宇宙中心”的认知中走出来一样，进一步意识到自己甚至不是地球的中心。&lt;/li&gt;
+&lt;li&gt;奇妙的是，我对此并没有恐惧或抗拒，反而感到强烈的好奇。我逐渐意识到，也许我真正渴望的并不是“造福人类”，而是见证并推动文明本身走向新的阶段。&lt;/li&gt;
+&lt;li&gt;我相信，人类的命运是一幕有始有终的宏大故事，而我只是迫不及待地想参与其中，推动故事走向下一幕。我更像一个观看宇宙史诗的观众，希望创造新的篇章，让未来的文明能够展开更加壮丽的剧情。这种感觉类似于《炎拳》中冰雪之女存在千年创造新世界，只为了让那个世界的文明发展并最终拍出她想看的新一季《星球大战》。&lt;/li&gt;
+&lt;li&gt;这也让我想到《进击的巨人》中的团长艾尔文 · 史密斯。他带领调查兵团不断前进，其根本原因并不是为了让墙内的人类获得安全，而是因为他无法抑制对墙外世界的好奇。他真正追求的是探索未知本身，是为了亲眼看到世界真实的样子。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>Utopia to Come</title>
       <link>https://LuC-lis.github.io/my_blog/posts/utopia-to-come/</link>
