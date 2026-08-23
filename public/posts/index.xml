@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on LuC</title>
-    <link>//localhost:1313/posts/</link>
+    <link>https://luc-essays.aglow-genet-0741.chatgpt.site/posts/</link>
     <description>Recent content in Posts on LuC</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
     <lastBuildDate>Sat, 01 Aug 2026 14:20:57 +0800</lastBuildDate>
-    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://luc-essays.aglow-genet-0741.chatgpt.site/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Utopia to Come</title>
-      <link>//localhost:1313/posts/utopia-to-come/</link>
+      <link>https://luc-essays.aglow-genet-0741.chatgpt.site/posts/utopia-to-come/</link>
       <pubDate>Sat, 01 Aug 2026 14:20:57 +0800</pubDate>
-      <guid>//localhost:1313/posts/utopia-to-come/</guid>
+      <guid>https://luc-essays.aglow-genet-0741.chatgpt.site/posts/utopia-to-come/</guid>
       <description>&lt;p&gt;在油管上看到一些视频。人们为了“AI是否会取代coding”争论不休。&lt;/p&gt;
 &lt;p&gt;黄仁勋公开发布言论：“人们不再需要学习编程！”软件工程师们对此不屑一顾。黄仁勋这么说，是因为他就是卖AI的人。软件工程师们说，AI很笨，它们没法很好地完成任务；且如果AI完全接管人类体系，那么一旦AI崩溃，谁能管理AI呢？综上所述，coding并不会被取代。&lt;/p&gt;
 &lt;p&gt;我认为并非如此。&lt;/p&gt;
@@ -39,9 +39,9 @@
     </item>
     <item>
       <title>What My Goal is, and Who I am</title>
-      <link>//localhost:1313/posts/what-my-goal-is/</link>
+      <link>https://luc-essays.aglow-genet-0741.chatgpt.site/posts/what-my-goal-is/</link>
       <pubDate>Fri, 31 Jul 2026 14:20:57 +0800</pubDate>
-      <guid>//localhost:1313/posts/what-my-goal-is/</guid>
+      <guid>https://luc-essays.aglow-genet-0741.chatgpt.site/posts/what-my-goal-is/</guid>
       <description>&lt;p&gt;我的人生只有一个目标：成就伟大。&lt;/p&gt;
 &lt;p&gt;何为伟大？颠覆世界就是伟大。&lt;/p&gt;
 &lt;p&gt;我并不在意他人的看法，只遵循自我渴望的呼唤。不过，如果要为我的雄心提供一个外界参照，“颠覆世界”会是不错的标准。&lt;/p&gt;
