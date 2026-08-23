@@ -1,5 +1,22 @@
-baseURL = "https://LuC-lis.github.io/my_blog/"
-languageCode = "en-us"
-title = "LuC's Essays"
-
+baseURL = "/"
+locale = "zh-CN"
+defaultContentLanguage = "zh"
+title = "LuC"
 theme = "PaperMod"
+
+[params]
+  author = "LuC"
+  description = "关于智能、未来与人的文章。"
+  defaultTheme = "auto"
+  disableThemeToggle = true
+  disableSpecial1stPost = true
+  hideFooter = true
+  hideSummary = true
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = false
+  mainSections = ["posts"]
+
+  [params.homeInfoParams]
+    Title = "文章"
+    Content = "关于智能、未来与人的思考。"
