@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/my_blog/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2026-08-01T14:20:57+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my_blog/posts/</loc>
+    <loc>//localhost:1313/posts/</loc>
     <lastmod>2026-08-01T14:20:57+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my_blog/posts/utopia-to-come/</loc>
+    <loc>//localhost:1313/posts/utopia-to-come/</loc>
     <lastmod>2026-08-01T14:20:57+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my_blog/posts/what-my-goal-is/</loc>
+    <loc>//localhost:1313/posts/what-my-goal-is/</loc>
     <lastmod>2026-07-31T14:20:57+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my_blog/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/my_blog/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
   </url>
 </urlset>
