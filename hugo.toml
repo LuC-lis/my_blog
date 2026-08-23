@@ -18,5 +18,4 @@ theme = "PaperMod"
   mainSections = ["posts"]
 
   [params.homeInfoParams]
-    Title = "文章"
     Content = "关于智能、未来与人的思考。"
