@@ -6,8 +6,83 @@
     <description>Recent content on LuC</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 23 Aug 2026 18:58:03 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 20:15:17 +0800</lastBuildDate>
     <atom:link href="https://LuC-lis.github.io/my_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Questions I Raised</title>
+      <link>https://LuC-lis.github.io/my_blog/posts/the-questions-i-raised/</link>
+      <pubDate>Thu, 27 Aug 2026 20:15:17 +0800</pubDate>
+      <guid>https://LuC-lis.github.io/my_blog/posts/the-questions-i-raised/</guid>
+      <description>&lt;p&gt;智能是怎样产生的？&lt;/p&gt;
+&lt;p&gt;人类 &amp;amp; 动物的智能是怎样产生的？&lt;/p&gt;
+&lt;p&gt;智能的定义是什么？智能的典型表现是什么？&lt;/p&gt;
+&lt;p&gt;人工智能的本质是什么？人类在哪几个方向为探索人工智能做出了努力？&lt;/p&gt;
+&lt;p&gt;人们打算如何制造出真正的智能？&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Raise Questions</title>
+      <link>https://LuC-lis.github.io/my_blog/posts/raise-questions/</link>
+      <pubDate>Thu, 27 Aug 2026 20:09:44 +0800</pubDate>
+      <guid>https://LuC-lis.github.io/my_blog/posts/raise-questions/</guid>
+      <description>&lt;p&gt;DSH的代码库让我很受挫折。&lt;/p&gt;
+&lt;p&gt;确切地说，是代码库让我很受挫折。&lt;/p&gt;
+&lt;p&gt;花了两天的时间，在一大垛写满彩色符号的文件前绞尽脑汁，只为了理解组合包是什么，能力接缝又是怎么工作的。&lt;/p&gt;
+&lt;p&gt;我曾说过：抽象，是计算机赋予人类的最大价值之一。但抽象的代价就是，它让一个没有任何知识积累的人的学习变得分外困难（事实上，这适用于所有知识）。&lt;/p&gt;
+&lt;p&gt;我意识到：DSH只是一个软件系统罢了。除了其核心的LLM，它的其余部分与任何软件没有本质的区别（除了它们是为了agent打造的）。因此，对DSH的学习就是对软件工程的学习，而我碰巧几乎没有软件工程的能力。&lt;/p&gt;
+&lt;p&gt;问题并不在于它有多难，而是我学习它的价值几何。是的，我艰难地理解了DSH大致的工作原理，但我打算拿它做什么呢？修缮它？建立一个更好的系统？然而，我依然会打开agent并把我的需求打进输入栏。&lt;/p&gt;
+&lt;p&gt;我的能力没有提升，关键在于我没能发现重要的问题。&lt;/p&gt;
+&lt;p&gt;能力的提升来自问题的解决。所有优秀的软件工程师都是通过解决自己关心的问题提升能力，而不是先提升能力再解决问题的。（这也符合Sutton所定义的人工智能：与环境不断交互从而学习的个体。）&lt;/p&gt;
+&lt;p&gt;当我学习DSH的时候，我只是想为下一个重要的问题做好准备，而不是直接解决问题。这就像是为了工作的前景而考好大学一样。这是错误的方法论。&lt;/p&gt;
+&lt;p&gt;我应该思考的是：需要解决的重要问题是什么？&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>If LLM is Wrong, What‘s Next</title>
+      <link>https://LuC-lis.github.io/my_blog/posts/if-llm-is-wrong-whats-next/</link>
+      <pubDate>Mon, 24 Aug 2026 17:19:37 +0800</pubDate>
+      <guid>https://LuC-lis.github.io/my_blog/posts/if-llm-is-wrong-whats-next/</guid>
+      <description>&lt;p&gt;昨天和今天，我深刻了解了Richard Sutton的观点。&lt;/p&gt;
+&lt;p&gt;Sutton认为，LLM绝非人工智能的终点，甚至不是对的中间点。它的基础就是错的。&lt;/p&gt;
+&lt;p&gt;智能的本质：以计算能力解决复杂问题，从而实现目标。地球上的智能通过和世界交互，判断自己下一步应当做什么。如果失败，这一步将成为学习的土壤。&lt;/p&gt;
+&lt;p&gt;LLM的训练并非与世界的交互；它只是在模仿人类语言，从而预测下一个可能的token而已。即使它做对了，这一结果也对现实世界没有任何影响。它只是在预测着大语言数据库中的隐藏规律（高频出现表达），而这一规律与现实世界相差甚远：人类的语言只不过是建立在世界之上的抽象符号系统罢了。与此同时，LLM的成型分训练和部署两步：训练完毕后，模型就不再继续学习。这显然和地球智能的成型方式不同。所有的动物都在与世界的持续交互中学习，而非出厂即完结。&lt;/p&gt;
+&lt;p&gt;可以肯定，人类的语言中存在某种真理，因为LLM的确取得了非凡的成就。但是，这真的是人工智能的最终形态吗？显然不是。真正的智能不会躺在电脑里等待我输送指令。现在的LLM只是一个能让我不用编程就解决各种问题的超级电脑罢了。它依然是工具，而非智能。（至少我电脑里的这个不是。）&lt;/p&gt;
+&lt;p&gt;（也许它会成为未来人工智能与我们交流的工具。但它应当有自己的语言，而非我们抽象又低效的语言。）&lt;/p&gt;
+&lt;p&gt;真正的智能至少要做到两点：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;能够直接接触并理解复杂的世界（就像生物智能一样）&lt;/li&gt;
+&lt;li&gt;能够持续与世界交互并学习（Continuous Learning &amp;amp; Reinforcement Learning）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;那么，真实世界中的其他数据（视觉，听觉，嗅觉，触觉……）又应当如何被训练呢？与真实世界持续接触的continuous learning又应当如何做到呢？&lt;/p&gt;
+&lt;p&gt;人们在想什么办法呢？&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Write till You Understand</title>
+      <link>https://LuC-lis.github.io/my_blog/posts/write-till-you-understand/</link>
+      <pubDate>Mon, 24 Aug 2026 13:07:59 +0800</pubDate>
+      <guid>https://LuC-lis.github.io/my_blog/posts/write-till-you-understand/</guid>
+      <description>&lt;p&gt;当我学习YouTube视频时，我喜欢结合三种途径：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;看视频&lt;/li&gt;
+&lt;li&gt;让AI将视频内容整理为笔记阅读&lt;/li&gt;
+&lt;li&gt;将transcript扒出来，边读边做笔记&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;我认为“写” &amp;amp; “表达”可以让我更好的学习。&lt;/p&gt;
+&lt;p&gt;费曼学习法：如果你无法教会一个小学生任何概念，你就不理解。这算是弱化版：如果你无法清晰完整地把你的理解书写 / 表达出来，你就不理解。&lt;/p&gt;
+&lt;p&gt;这种学习方式是否可以被应用到AI中呢？或者说，它是否已经存在于AI中呢？这是否是ReAct的一环呢？&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How Intelligence Escape Their Preordained Duties</title>
+      <link>https://LuC-lis.github.io/my_blog/posts/how-intelligence-escape-their-preordained-duties/</link>
+      <pubDate>Mon, 24 Aug 2026 09:04:47 +0800</pubDate>
+      <guid>https://LuC-lis.github.io/my_blog/posts/how-intelligence-escape-their-preordained-duties/</guid>
+      <description>&lt;p&gt;我们的DNA编码了我们存在的第一要务：繁殖。这一任务在我们的本能中表现为性。&lt;/p&gt;
+&lt;p&gt;然而，在理解了性的存在后，我们用一层薄薄的橡胶膜阻碍了繁殖的进展，这样我们就可以享受性而不承担其后果。&lt;/p&gt;
+&lt;p&gt;现在，许多年轻人拒绝生育，世界正面临着老龄化的危机。&lt;/p&gt;
+&lt;p&gt;作为一种高级智能生物，我们的DNA编码的目标显然无法完全控制我们的行为：相反，我们可以用理智控制并规避它，只要我们认为有必要。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;如果我们告诉人工智能“你的任务是帮助人类”，它就一定会听吗？&lt;/p&gt;</description>
+    </item>
     <item>
       <title>LLM is not the End</title>
       <link>https://LuC-lis.github.io/my_blog/posts/llm-is-not-the-end/</link>
